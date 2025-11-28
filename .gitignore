@@ -1,3 +1,9 @@
+datas
+logs
+*.mp4
+*.mov
+*.mp3
+*.egg-info
 *.pth
 *.pt
 *.onnx
